@@ -1,0 +1,68 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "category": "Entertainment",
+      "title": "Bigg Boss Season Highlights",
+      "blogger_name": "Rahul Sharma",
+      "image": "https://images.unsplash.com/photo-1524985069026-dd778a71c7b4",
+      "description": "A complete breakdown of the most dramatic moments from this season of Bigg Boss."
+    },
+    {
+      "id": 2,
+      "category": "Technology",
+      "title": "Latest AI Innovations in 2026",
+      "blogger_name": "Anita Verma",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+      "description": "Exploring how artificial intelligence is transforming industries across the globe."
+    },
+    {
+      "id": 3,
+      "category": "Sports",
+      "title": "Champions League Final Review",
+      "blogger_name": "Vikram Singh",
+      "image": "https://images.unsplash.com/photo-1508098682722-e99c643e7f0b",
+      "description": "An in-depth analysis of the thrilling Champions League final match."
+    },
+    {
+      "id": 4,
+      "category": "Business",
+      "title": "Startup Funding Trends",
+      "blogger_name": "Neha Kapoor",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf",
+      "description": "Understanding the latest investment patterns in the startup ecosystem."
+    },
+    {
+      "id": 5,
+      "category": "Health",
+      "title": "10 Tips for a Healthy Lifestyle",
+      "blogger_name": "Dr. Meera Joshi",
+      "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352",
+      "description": "Simple daily habits that can improve your physical and mental well-being."
+    },
+    {
+      "id": 6,
+      "category": "Science",
+      "title": "SpaceX Mars Mission Update",
+      "blogger_name": "Arjun Rao",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa",
+      "description": "Latest developments in the mission aimed at establishing human life on Mars."
+    },
+    {
+      "id": 7,
+      "category": "Technology",
+      "title": "Top Programming Languages in 2026",
+      "blogger_name": "Kiran Patel",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+      "description": "A detailed comparison of the most popular programming languages this year."
+    },
+    {
+      "id": 8,
+      "category": "Entertainment",
+      "title": "Top 10 Netflix Series to Watch",
+      "blogger_name": "Sneha Reddy",
+      "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba",
+      "description": "Binge-worthy Netflix shows that you should not miss this month."
+    }
+  ]
+}
