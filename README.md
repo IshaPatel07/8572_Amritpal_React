@@ -1,1 +1,0 @@
-# 8572_Amritpal_React
